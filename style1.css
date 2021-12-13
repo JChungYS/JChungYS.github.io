@@ -71,7 +71,11 @@ html, body {
     border:0px;
 }
 
+h1 {
+    color:blue;
+}
 h2 {
+    color:lightskyblue;
     padding-left:10px;
 }
 
